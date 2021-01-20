@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/micro-common/micro-common.iml" filepath="$PROJECT_DIR$/micro-common/micro-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-common-db/micro-common-db.iml" filepath="$PROJECT_DIR$/micro-common-db/micro-common-db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-gateway/micro-gateway.iml" filepath="$PROJECT_DIR$/micro-gateway/micro-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-gateway/micro-gateway-web/micro-gateway-web.iml" filepath="$PROJECT_DIR$/micro-gateway/micro-gateway-web/micro-gateway-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service/micro-service.iml" filepath="$PROJECT_DIR$/micro-service/micro-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service-api/micro-service-api.iml" filepath="$PROJECT_DIR$/micro-service-api/micro-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service/micro-service-goods/micro-service-goods.iml" filepath="$PROJECT_DIR$/micro-service/micro-service-goods/micro-service-goods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service-api/micro-service-goods-api/micro-service-goods-api.iml" filepath="$PROJECT_DIR$/micro-service-api/micro-service-goods-api/micro-service-goods-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service/micro-service-user/micro-service-user.iml" filepath="$PROJECT_DIR$/micro-service/micro-service-user/micro-service-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service-api/micro-service-user-api/micro-service-user-api.iml" filepath="$PROJECT_DIR$/micro-service-api/micro-service-user-api/micro-service-user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-user-oauth/micro-user-oauth.iml" filepath="$PROJECT_DIR$/micro-user-oauth/micro-user-oauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microframework.iml" filepath="$PROJECT_DIR$/microframework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mircro-erueka01/mircro-erueka01.iml" filepath="$PROJECT_DIR$/mircro-erueka01/mircro-erueka01.iml" />
+    </modules>
+  </component>
+</project>
